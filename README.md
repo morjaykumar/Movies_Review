@@ -3,11 +3,9 @@
 Movies Review App is a simple Android application built as a college project.
 It allows users to explore movies, give ratings, write reviews, and read reviews submitted within the app.
 The app is designed with a clean and user-friendly interface.
+
 📱 App Screens
 
-Splash | Home | Movie Details | Add Review
-
-(Replace the below placeholders with real images)
 
 registerpage.jpg – register page
 
