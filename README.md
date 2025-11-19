@@ -49,4 +49,5 @@ Button
 RatingBar
 
 Storage: SQLite
+
 👨‍💻 Developed by mor jaykumar faljibhai
