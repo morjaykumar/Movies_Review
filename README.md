@@ -7,13 +7,13 @@ The app is designed with a clean and user-friendly interface.
 📱 App Screens
 
 
-registerpage.jpg – register page
+registerpage – register page
 
-loginpage.jpg – login page
+loginpage– login page
 
-listpage.jpg – Movie Details Screen
+listpage– Movie Details Screen
 
-reviewpage.jpg – Add Review Screen
+reviewpage – Add Review Screen
 
 ✨ Features
 
